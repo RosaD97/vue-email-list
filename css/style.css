@@ -4,3 +4,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+/* Common */
+body{
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(12,121,9,1) 46%, rgba(0,0,0,1) 100%);
+}
+/* Main */
+.ms_shadow{
+    box-shadow: 0px -1px 24px 0px #ffffff;
+}
+[v-cloak] {
+    display: none;
+  }
